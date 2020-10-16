@@ -59,17 +59,14 @@
 </p>
 
 
-
----
-
 <p align="center"> 
   <img align="center" alt="profile views" src="https://komarev.com/ghpvc/?username=justdatguymat&color=blueviolet&style=flat" /> 
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdatguymat&layout=compact&hide=html&hide_border=true&theme=buefy" alt="top langs stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdatguymat&layout=compact&show_icons=true&hide=html&hide_border=true&theme=buefy" alt="top langs stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justdatguymat&hide_border=true&theme=buefy" alt="profile stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justdatguymat&hide_border=true&show_icons=true&theme=buefy" alt="profile stats" />
 </p>
