@@ -1,9 +1,25 @@
+
+
 <p align="center">
   <h2 align="center">Hello world! :sweat_smile:</h2> 
   <h4 align="center">I'm Matt, a software engineer and a full stack developer :sunglasses:</h4?
 </p>
   
----
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/justdatguymat/" target="_blank">
+    <img align="center" src="https://img.shields.io/static/v1?&style=social&color=ac4aed&label=linkedin&message=justdatguymat&logo=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/justdatguymat" target="_blank">
+    <img align="center" src="https://img.shields.io/static/v1?&style=social&color=ac4aed&label=facebook&message=justdatguymat&logo=facebook" />
+  </a>
+  <a href="http://instagram.com/justdatguymat" target="_blank">
+    <img align="center" src="https://img.shields.io/static/v1?&style=social&color=ac4aed&label=instagram&message=justdatguymat&logo=instagram" />
+  </a>
+  <a href="https://twitter.com/justdatguymat" target="_blank">
+    <img align="center" src="https://img.shields.io/static/v1?&style=social&color=ac4aed&label=twitter&message=justdatguymat&logo=twitter" />
+  </a>
+</p>
 
 <p align="center">
   <h4 align="center">Things I know?</h4
@@ -43,17 +59,14 @@
 
 ---
 
-<p align="center>
-  <img align="center" alt="profile views" src="http://komarev.com/ghpvc?username=justdatguymat&color=blueviolet" />
-</p>
-![](http://komarev.com/ghpvc?username=justdatguymat&color=blueviolet)
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justdatguymat&hide_border=true&theme=buefy" alt="profile stats" />
+<p align="center"> 
+  <img align="center" alt="profile views" src="https://komarev.com/ghpvc/?username=justdatguymat&color=blueviolet&style=flat" /> 
 </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdatguymat&layout=compact&hide=html&hide_border=true&theme=buefy" alt="top langs stats" />
 </p>
 
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justdatguymat&hide_border=true&theme=buefy" alt="profile stats" />
+</p>
