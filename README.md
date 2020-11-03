@@ -33,6 +33,7 @@
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=ae43d9&label=%20&message=TypeScript&logo=typescript" />
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=ae43d9&label=%20&message=JavaScript&logo=javascript" />
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=ae43d9&label=%20&message=Java&logo=java" />
+  <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=ae43d9&label=%20&message=PowerShell&logo=powershell" />
 </p>
 
 <!-- Frameworks -->
@@ -41,14 +42,18 @@
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=9132b8&label=%20&message=Next.js&logo=next.js" />
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=9132b8&label=%20&message=Svelte&logo=svelte" />
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=9132b8&label=%20&message=Flask&logo=flask" />
+  <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=9132b8&label=%20&message=Spring&logo=spring" />
+  <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=9132b8&label=%20&message=Android%20Studio&logo=Android%20Studio" />
 </p>
 
 <!-- Technologies -->
 <p align="center">
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=78229c&label=%20&message=Node&logo=node.js" />
+  <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=78229c&label=%20&message=Deno&logo=deno" />
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=78229c&label=%20&message=Docker&logo=docker" />
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=78229c&label=%20&message=AWS&logo=amazon-aws" />
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=78229c&label=%20&message=Git&logo=git" />
+  <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=78229c&label=%20&message=GraphQL&logo=graphql" />
 </p>
 
 <!-- OS -->
