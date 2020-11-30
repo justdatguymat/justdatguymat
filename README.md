@@ -2,16 +2,16 @@
 <p align="center">
   
   <a href="https://www.linkedin.com/in/justdatguymat/" target="_blank">
-    <img align="center" src="https://img.shields.io/static/v1?&style=social&color=ac4aed&label=linkedin&message=justdatguymat&logo=linkedin" />
+    <img align="center" src="https://img.shields.io/static/v1?&style=social&color=ac4aed&label=LinkedIn&message=%20&logo=linkedin" />
   </a>
   <a href="https://www.facebook.com/justdatguymat" target="_blank">
-    <img align="center" src="https://img.shields.io/static/v1?&style=social&color=ac4aed&label=facebook&message=justdatguymat&logo=facebook" />
+    <img align="center" src="https://img.shields.io/static/v1?&style=social&color=ac4aed&label=facebook&message=%20&logo=facebook" />
   </a>
   <a href="http://instagram.com/justdatguymat" target="_blank">
-    <img align="center" src="https://img.shields.io/static/v1?&style=social&color=ac4aed&label=instagram&message=justdatguymat&logo=instagram" />
+    <img align="center" src="https://img.shields.io/static/v1?&style=social&color=ac4aed&label=instagram&message=%20&logo=instagram" />
   </a>
   <a href="https://twitter.com/justdatguymat" target="_blank">
-    <img align="center" src="https://img.shields.io/static/v1?&style=social&color=ac4aed&label=twitter&message=justdatguymat&logo=twitter" />
+    <img align="center" src="https://img.shields.io/static/v1?&style=social&color=ac4aed&label=twitter&message=%20&logo=twitter" />
   </a>
 </p>
 <br><br>
@@ -42,7 +42,7 @@
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=9132b8&label=%20&message=Next.js&logo=next.js" />
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=9132b8&label=%20&message=Svelte&logo=svelte" />
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=9132b8&label=%20&message=Flask&logo=flask" />
-  <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=9132b8&label=%20&message=Spring&logo=spring" />
+ <!-- <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=9132b8&label=%20&message=Spring&logo=spring" /> -->
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=9132b8&label=%20&message=Android%20Studio&logo=Android%20Studio" />
 </p>
 
