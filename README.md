@@ -33,7 +33,7 @@
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=ae43d9&label=%20&message=TypeScript&logo=typescript" />
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=ae43d9&label=%20&message=JavaScript&logo=javascript" />
   <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=ae43d9&label=%20&message=Java&logo=java" />
-  <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=ae43d9&label=%20&message=PowerShell&logo=powershell" />
+  <img align="center" src="https://img.shields.io/static/v1?&style=flat&color=ae43d9&label=%20&message=Dotnet&logo=.net" />
 </p>
 
 <!-- Frameworks -->
